@@ -1,0 +1,14 @@
+[
+    {
+        "id": "123",
+        "nombre": "gorra",
+        "cantidad": 12,
+        "precio": 32.0
+    },
+    {
+        "id": "122",
+        "nombre": "correa",
+        "cantidad": 34,
+        "precio": 65.0
+    }
+]
